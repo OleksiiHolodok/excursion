@@ -4,6 +4,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*Header*/
+
 .header {
     font-weight: normal;
     font-size: 50px;
@@ -28,6 +30,8 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+/* Footer */
 
 footer {
     text-align: right;
